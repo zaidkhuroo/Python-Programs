@@ -6,5 +6,5 @@ while c < len(myList):
     if element % 2 == 0:
         print('even')
     else:
-        print('odd')
+        print('odd') 
     c+= 1
