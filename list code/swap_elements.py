@@ -12,4 +12,4 @@ List = [23, 65, 44]
 pos1, pos2 = 1, 3
 
 print(swapPositions(List, pos1-1, pos2-1))
-
+ 
