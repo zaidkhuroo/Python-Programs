@@ -3,7 +3,7 @@
 
 p = float(input('Enter principle amount: '))  
 t = float(input('Enter time: '))  
-r = float(input('Enter rate: ')) 
+r = float(input('Enter rate: '))  
 
 # calculates the compound interest
 a=p*(1+(r/100))**t  # formula for calculating amount
